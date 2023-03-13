@@ -1,0 +1,95 @@
+section h1 {
+    font-size: 65px;
+    color: #f24405;
+    text-align: center;
+    margin-top: 70px;
+    letter-spacing: 10px;
+    text-decoration: overline 2px #f2e294;
+    font-weight: bold;
+
+
+}
+
+.sobre {
+    background: #fff;
+    display: flex;
+    padding: 80px;
+    align-items: center;
+    margin-top: 40px;
+}
+
+p {
+    font-size: 14px;
+    color: #363d65;
+}
+
+.logotipo-img {
+    margin-top: 40px;
+    align-items: center;
+    opacity: 0.8;
+    padding: 10px;
+    border-radius: 30% 0 30% 0;
+    border: #f24405 dashed 2px;
+}
+
+section.id-visual {
+    padding: 100px;
+    background-color: #f8efc6;
+}
+
+section.id-visual h2 {
+    text-align: center;
+    color: #363d65;
+    font-weight: normal;
+    font-size: 30px;
+}
+
+.depoimentos-box {
+    margin-top: 40px;
+    margin: 0 auto;
+    overflow: hidden;
+    max-width: 800px;
+    color: #363d65;
+}
+
+.depoimentos-box p {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+.id-visual img {
+    width: 460px;
+    height: auto;
+    display: block;
+    margin: 10px auto;
+    padding: 10px;
+    border-radius: 30% 0 30% 0;
+    border: #f24405 dashed 2px;
+}
+
+@media (max-width:1100px) {
+    .footer .social a {
+        margin-top: 40px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+  
+    .w50 {
+        width: 100%;
+    }
+
+    .menu-mobile {
+        display: block;
+    }
+
+    .menu-desktop {
+        display: none;
+    }
+
+}
+@media screen and (max-width: 400px) {
+
+}
+/*  */

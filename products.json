@@ -1,0 +1,91 @@
+{
+    "products": [{
+            "name": "Awesome T-shirt",
+            "price": "35.99",
+            "options": [
+                { "Size": "Small,Medium,Large" }
+            ],
+            "image": "./image/02.jpg",
+            "description": "This is a very awesome grey T-shirt"
+        },
+        {
+            "name": "Cool T-shirt",
+            "price": "15.99",
+            "options": [
+                { "Size": "Small,Medium,Large" },
+                { "OneOfAKind": true }
+            ],
+            "image": "./image/03.jpg",
+            "description": "This is a really cool blue T-shirt"
+        },
+        {
+            "name": "Fun T-shirt",
+            "price": "15.99",
+            "options": [
+                { "Size": "Small,Medium,Large" }
+            ],
+            "image": "./image/04.jpg",
+            "description": "This is another fun grey T-shirt"
+        },
+        {
+            "name": "Cool T-shirt",
+            "price": "15.99",
+            "options": [
+                { "Size": "Small,Medium,Large" },
+                { "OneOfAKind": true }
+            ],
+            "image": "./image/04.jpg",
+            "description": "This is a really cool blue T-shirt"
+        },
+        {
+            "name": "Cool T-shirt",
+            "price": "15.99",
+            "options": [
+                { "Size": "Small,Medium,Large" },
+                { "OneOfAKind": true }
+            ],
+            "image": "./image/05.jpg",
+            "description": "This is a really cool blue T-shirt"
+        },
+        {
+            "name": "Cool T-shirt",
+            "price": "15.99",
+            "options": [
+                { "Size": "Small,Medium,Large" },
+                { "OneOfAKind": true }
+            ],
+            "image": "./image/06.jpg",
+            "description": "This is a really cool blue T-shirt"
+        },
+        {
+            "name": "Cool T-shirt",
+            "price": "15.99",
+            "options": [
+                { "Size": "Small,Medium,Large" },
+                { "OneOfAKind": true }
+            ],
+            "image": "./image/07.jpg",
+            "description": "This is a really cool blue T-shirt"
+        },
+        {
+            "name": "Cool T-shirt",
+            "price": "15.99",
+            "options": [
+                { "Size": "Small,Medium,Large" },
+                { "OneOfAKind": true }
+            ],
+            "image": "./image/08.jpg",
+            "description": "This is a really cool blue T-shirt"
+        },
+        {
+            "name": "Cool T-shirt",
+            "price": "15.99",
+            "options": [
+                { "Size": "Small,Medium,Large" },
+                { "OneOfAKind": true }
+            ],
+            "image": "./image/09.jpg",
+            "description": "This is a really cool blue T-shirt"
+        }
+    ]
+}
